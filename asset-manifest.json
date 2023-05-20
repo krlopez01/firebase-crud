@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-crud/static/css/main.be8f0cbd.css",
+    "main.js": "/firebase-crud/static/js/main.4ee89415.js",
+    "index.html": "/firebase-crud/index.html",
+    "main.be8f0cbd.css.map": "/firebase-crud/static/css/main.be8f0cbd.css.map",
+    "main.4ee89415.js.map": "/firebase-crud/static/js/main.4ee89415.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be8f0cbd.css",
+    "static/js/main.4ee89415.js"
+  ]
+}
